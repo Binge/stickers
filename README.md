@@ -2,6 +2,10 @@
 
 ![](binge_logo.png)
 
+#### Demo
+
+![](demo-sticker-on-mbp.jpg)
+
 #### How to use
 
 Download the source files below and then find a print factory to print them.
