@@ -4,7 +4,7 @@
 
 #### Sticker Show
 
-![](demo-sticker-on-mbp.jpg)
+![](sticker_show.jpg)
 
 #### How to use
 
