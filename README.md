@@ -2,7 +2,7 @@
 
 ![](binge_logo.png)
 
-#### Demo
+#### Sticker Show
 
 ![](demo-sticker-on-mbp.jpg)
 
@@ -10,7 +10,7 @@
 
 Download the source files below and then find a print factory to print them.
 
-[PNG format](binge_logo_sticker.png)
+[PNG format](sticker_show.png)
 
 #### License
 
