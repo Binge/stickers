@@ -27,4 +27,4 @@ If you also like stickers, welcome to make binge stickers.
 
 #### Tips
 
-If you happen to be in Shanghai at the moment, you can [contact me](mailto:i@binhua.org) and I will send you one.
+If you happen to be in Shanghai at the moment, you can [send an email](mailto:hi@binge.org) and I will send you one.
