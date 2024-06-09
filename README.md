@@ -10,7 +10,7 @@
 
 Download the source files below and then find a print factory to print them.
 
-[PNG format](sticker_show.png)
+[PNG format](https://github.com/Binge/stickers/blob/master/binge_logo_sticker.png)
 
 #### License
 
